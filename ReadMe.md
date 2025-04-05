@@ -34,7 +34,7 @@ At the end of the project, we will have a **highly refined and aggregated data**
 ![alt text](<Diagrams/Data Warehouse Project Diagram.PNG>)
 ---
 
-The source data systems are exist [here](Datasets), and all SQL script for creating the data warehouse are [here](SQL_Scripts), finally all diagrams are [here](Diagrams).
+All SQL script for creating the data warehouse are [here](SQL_Scripts), and all diagrams are [here](Diagrams).
 
 ## **2. Tools I Used:**
 **1. SQL Server Management Studio (SSMS):** RDBMS for managing and interacting with databases.
